@@ -8,6 +8,7 @@ Thieves' tools (25gp)
 4x Torch
 2x Rations
 4x Chalk
+1x 3Headed Flame Flail (from Fireskeletonboss)
 Sack, small
 
 # ~~Grimbart Reichsack~~
@@ -60,5 +61,4 @@ Sack, small
 tubbert (über rüstung gezogene Rittersamt, sehr gut gemacht)
 2x steel vial (something black in it)
 1x Totenkopf
-1x 3Headed Flame Flail (from Fireskeletonboss)
 1x Mace
