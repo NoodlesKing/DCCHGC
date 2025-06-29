@@ -1,39 +1,17 @@
 
 Occupation: Weaver
-Exp: 14
+Exp: 14 + 20 + 5 + 11 + 11
+
+Frostpilz -Effekt
+![[Pasted image 20250617194324.png]]
 
 Bag:
 Fine suit of clothes
-Thieves' tools (25gp)
+~~Thieves' tools (25gp)~~
 2x Candle
-4x Torch
 2x Rations
 4x Chalk
-1x 3Headed Flame Flail (from Fireskeletonboss)
-1x Plate Armor (damaged, +6 AC Bonus)
 Sack, small
-
-14x15gp, 28g, 30sp
-2x Coins with interesting Prägung: 20gp
-2x Leatherarmor (+1 AC Bonus): 30gp
-2x Hidearmor
-5x Eggs of Draconic Salamander
-2x Rope
-2x Warhammer
-1x Ironspike
-2x Grappling
-1x Mallot
-1x Tinderbox
-1x Brokenlantern
-1x Padded Armor
-3x Dagger
-1x Ring of Shielding
-1x Ring of Revelation (2x per Day casts ???)
-66gp
-Spellbook
-1x Tortoise Shell (Casts Locate Object)
-
-18cp
 Thieves' tools (25gp)
 Backpack 2gp
 10x Rations 50cp
@@ -46,6 +24,11 @@ Backpack 2gp
 2x Chalk 2cp
 1x Hammer, small 5sp
 1x Oil -1 flask (2sp)
-8x Rubine
+1x 3Headed Flame Flail (from Fireskeletonboss)
+1x Ornated Longbow - 5 Arrows (20arrows for 5gp if buy newly)
+1x (Fast komplette) Full Plate (+7 AC, -7 AC): Chestplate, Single Grieve, Single Gauntlet, Single Helmet (Fehlt Arm, Bein, Crotch Protection)
 
-Frostpilz -Effekt
+Dream:
+Traum: Gigantischer, dämonischer Froschziege, die durch den Tempel durchläuft und alles zerstört. Frisst viele Metallbarren.
+
+29.6. - versteinert 
