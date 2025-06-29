@@ -43,23 +43,27 @@ Er wurde geschlagen, gepeinigt, beschimpft – aber er wurde besser. Karmac sah 
 
 ---
 
-### **Die Wunde**
+## **Die Wunde: Das Auge des Krieges**
 
-In der sechsten Woche des Trainings, während des „Hagellaufs“ – einem Ritual, bei dem man durch eine enge Gasse zwischen wütenden Rekruten laufen muss, während diese mit stumpfen Waffen zuschlagen – kam es zu einem Zwischenfall.
+In der sechsten Woche des Trainings, während des „Hagellaufs“ – einem Ritual, bei dem man durch eine enge Gasse zwischen wütenden Rekruten laufen muss, während diese mit stumpfen Waffen zuschlagen – geschah es.
 
-Einer der anderen Rekruten, ein eifersüchtiger Nordmann namens Varl, versteckte eine echte Klinge im Armstumpf.  
-Als Frank an ihm vorbeistürmte, **riss Varl ihm den Oberschenkel auf** – ein tiefer Schnitt, knapp über dem Knie.
+Einer der anderen Rekruten, ein eifersüchtiger Nordmann namens Varl, hatte es satt, dass Frank sich trotz seiner monströsen Herkunft Respekt verschaffte.  
+Er versteckte eine schartige Dolchklinge im Ärmel. Als Frank an ihm vorbeistürmte, **stach Varl ihm das Messer ins Gesicht.**
 
-Frank fiel.  
-Doch Karmac stoppte den Lauf nicht.  
-„Wenn du liegst, bist du tot. Lieg nicht.“  
-Frank biss sich durch. Stand auf. **Blutend, brüllend, stahlhart**.
+Die Welt wurde Licht. Dann Blut. Dann **Schwärze**.
 
-Er schleppte sich durch den Rest des Laufs, mit Zähnen zusammengepresst, bis er am Ende mit letzter Kraft den Schild warf und Varl das Nasenbein zertrümmerte.
+Frank schrie nicht. Er taumelte nur, das linke Auge überschwemmt von Wärme, die keine Träne war.  
+Doch er fiel nicht.  
+Karmac, kalt wie Schmiedeeisen:
 
-Seitdem blieb ihm eine tiefe, schiefe Narbe am linken Bein – sie zieht sich wie ein Blitzschlag über den Muskel. Sie heilt nie ganz.
+> „Lieg nicht. Das andere Auge reicht zum Töten.“
 
-> **Wundenmerkmal (optional mechanisch):** -1 auf Agility-bezogene Fertigkeitswürfe, bei längeren Lauf- oder Kletteraktionen muss Frank Willenskraft aufbringen (Richterentscheidung). Dafür erhält er +1 auf Einschüchterungswürfe – er **trägt seine Wunde mit Stolz**.
+Frank stand. Und **mit nur einem Auge** schleppte er sich durch den Rest des Laufs. Als er am Ende Varl erreichte, sah dieser panisch auf das blutige Gesicht.  
+Frank murmelte nur:
+
+> „Ich brauch kein zweites Auge… um dich zu finden.“
+
+Er rammte ihm das Trainingsschild gegen den Schädel, bis der Mann nicht mehr aufstand.
 
 ---
 
